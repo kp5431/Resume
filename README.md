@@ -1,2 +1,2 @@
 # Resume
-Current Version of my Resume
+Current version of my resume
